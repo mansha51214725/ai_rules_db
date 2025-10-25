@@ -1,0 +1,14 @@
+{
+  "AI_RULES": [
+    {
+      "pin_conflict": ["GND", "VCC"],
+      "suggestion": "Never short VBAT & GND while testing"
+    },
+    {
+      "jumper_suggestion": "If connector pad missing, identify the next component in series using boardview"
+    },
+    {
+      "battery_issue": "Test with DC power supply first"
+    }
+  ]
+}

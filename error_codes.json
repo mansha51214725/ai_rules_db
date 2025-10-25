@@ -1,0 +1,22 @@
+{
+  "ERROR_CODES": [
+    {
+      "code": "ERR-BOOT-01",
+      "device": "Android",
+      "symptom": "Stuck on Boot Logo",
+      "fix": "Flash firmware, wipe cache, check eMMC"
+    },
+    {
+      "code": "ERR-NET-02",
+      "device": "Android",
+      "symptom": "No Network",
+      "fix": "Check Baseband, replace RF IC"
+    },
+    {
+      "code": "ERR-CAM-04",
+      "device": "iPhone",
+      "symptom": "Camera black screen",
+      "fix": "Check camera connector, replace camera module"
+    }
+  ]
+}
