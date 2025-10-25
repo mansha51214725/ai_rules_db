@@ -1,0 +1,19 @@
+{
+  "IC_LIST": [
+    {
+      "name": "PMIC Qualcomm PM8998",
+      "fault": "Phone dead, no power",
+      "solution": "Check VBAT lines, reball or replace IC"
+    },
+    {
+      "name": "Audio IC iPhone U3101",
+      "fault": "Audio not working, no mic/earpiece",
+      "solution": "Reball IC, check audio lines"
+    },
+    {
+      "name": "Charging IC BQ2425",
+      "fault": "Not charging, battery icon stuck",
+      "solution": "Replace charging IC, check USB port"
+    }
+  ]
+}
